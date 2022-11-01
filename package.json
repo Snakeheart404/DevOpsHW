@@ -1,0 +1,10 @@
+{
+  "name": "DevOpsHW",
+  "version": "1.0.0",
+  "description": "Homework for DevOps course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "snakeheart"
+}
