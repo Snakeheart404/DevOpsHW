@@ -6,5 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "snakeheart"
+  "author": "snakeheart",
+  "dependencies": {
+    "eslint": "^8.29.0"
+  }
 }
