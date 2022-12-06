@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "scripts": {
+    "eslint": "eslint \"**/*.js\" --ignore-path .gitignore"
+  },
   "author": "snakeheart",
   "dependencies": {
     "eslint": "^8.29.0"
